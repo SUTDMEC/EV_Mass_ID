@@ -10,3 +10,5 @@ NOTE: tau can also be scaled and replaced by electric machine torque
 
 in.vel= speed vector [in km/hr]
 in.veltime= speed time vector [in s]
+
+Questions and bug reports: erik.wilhelm gmail com
